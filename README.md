@@ -4,7 +4,7 @@
 <img  width = "30%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/l2R06kO1jE5hNHub6/giphy.gif" />
 
 
-<div align="center">
+<div align="left">
 
 <i>Let's Connect:</i><br>
 
